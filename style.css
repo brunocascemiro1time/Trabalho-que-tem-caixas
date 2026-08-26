@@ -1,0 +1,46 @@
+div{
+    box-sizing: border-box;
+    border: 2px solid black; 
+    width: 500px;
+    margin-inline: auto;
+}
+.link{
+    border: 3px solid black;
+    color: blue;
+    padding: 10px;
+    margin-top: 0px;
+}
+
+.primeiro_paragrafo{
+    margin-bottom: 40px;
+    border: 1px solid black;
+}
+.photo{
+    width: 160px;
+    height: 180px;
+    border: 3px solid black;
+    margin-top: 0px;
+}
+.nome{
+    border: 1px solid black;
+}
+.cargo{
+    border: 1px solid black;
+}
+.email{
+    border: 1px solid black;
+}
+.segundo{
+    border: 1px solid black;
+}
+.caixa1{
+    border: 3px solid black;
+    display: inline-block; 
+    width: 30px;
+}
+.caixa2{
+    border: 3px solid black;
+}
+.caixa3{
+    border: 3px solid black;
+}
