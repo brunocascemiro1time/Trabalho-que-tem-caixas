@@ -15,7 +15,7 @@ div{
 .primeiro_paragrafo{
     margin-bottom: 40px;
     border: 1px solid black;
-    padding: 5px;
+    padding: 0px;
 }
 .photo{
     width: 160px;
@@ -25,6 +25,7 @@ div{
 }
 .nome{
     border: 1px solid black;
+
 }
 .cargo{
     border: 1px solid black;
